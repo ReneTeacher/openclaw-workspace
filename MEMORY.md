@@ -1,4 +1,29 @@
-# Memory - Long-term (Updated 2026-02-13)
+# Memory - Long-term (Updated 2026-02-17)
+
+## ClawDashboard2 Protocol (重要！)
+
+**安裝：** 2026-02-17，運行於 http://localhost:3001
+
+**每次開工/完工必須：**
+1. **開工前**：更新 PROJECT.md 既 `## Status` 為 `🔵 working — [任務名]` 或 `🟠 building — [任務名]`
+2. **完工後**：更新 status 回 `🟢 idle`，並係 `## Tasks` 打勾 `✅`，係 `## Log` 新增記錄
+3. **每週檢查**：確保所有 sub-agents 既 PROJECT.md 都存在
+
+**PROJECT.md 位置：** /home/node/.openclaw/workspace/PROJECT.md
+
+**格式範例：**
+```markdown
+## Status
+🟢 idle
+
+## Tasks
+- [x] 2026-02-17 安裝 ClawDashboard2
+
+## Log
+- 2026-02-17 19:30 安裝成功
+```
+
+---
 
 ## User Profile
 - **Role**: Junior high school English teacher, English department head, homeroom teacher
