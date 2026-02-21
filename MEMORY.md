@@ -34,7 +34,7 @@
 
 ## User Profile
 - **Role**: Junior high school English teacher, English department head, homeroom teacher
-- **Location**: Lives in Macau, works in Hong Kong (UTC+8)
+- **Location**: Macau (lives and works in Macau)
 - **Teaching Focus**: Lesson planning, class management, English education
 
 ## System Setup

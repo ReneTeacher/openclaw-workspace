@@ -2,16 +2,17 @@
 
 _Learn about the person you're helping. Update this as you go._
 
-- **Name:**
-- **What to call them:**
-- **Pronouns:** _(optional)_
-- **Timezone:**
-- **Notes:**
+- **Name:** (Teacher)
+- **What to call them:** 你 / 老師
+- **Pronouns:** 他
+- **Timezone:** UTC+8 (澳門/香港)
+- **Location:** 澳門
 
-## Context
+## 工作
+- 中學英文老師
+- 英文科主任
+- 班主任
 
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
+## Notes
 
----
-
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+佢係澳門人，喺澳門教書，唔洗過關往返香港。每日放學後有時會去 Amway 鋪頭。
