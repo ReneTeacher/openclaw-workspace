@@ -1,4 +1,11 @@
-# Memory - Long-term (Updated 2026-02-17)
+# Memory - Long-term (Updated 2026-02-21)
+
+## 抗炎早餐公式 (永遠記住！)
+**每次記錄飲食必須用呢個公式：**
+- 蔬果 + 蛋白粉 + Body Key + 纖維粉 + 卵磷脂粉 + 益生菌 + 薑黃維他命C粉
+- **絕對唔好寫錯！**
+
+---
 
 ## ClawDashboard2 Protocol (重要！)
 
