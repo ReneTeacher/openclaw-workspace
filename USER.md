@@ -24,7 +24,8 @@ _Learn about the person you're helping. Update this as you go._
 - 中學英文老師
 - 英文科主任
 - 班主任
+- **Amway Distributor** — 自己有做 Amway 生意，每日放學後有時會去 Amway 鋪頭
 
 ## Notes
 
-佢係澳門人，喺澳門教書，唔洗過關往返香港。每日放學後有時會去 Amway 鋪頭。
+佢係澳門人，喺澳門教書，唔洗過關往返香港。自己係 Amway distributor，可以用自己嘅紐崔萊產品配合健身計劃。
