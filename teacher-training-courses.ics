@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Teacher Training Courses//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:FD26-0440@teacher-training
+DTSTART;TZID=Asia/Macau:20260506T180000
+DTEND;TZID=Asia/Macau:20260506T210000
+SUMMARY:📚 身心健康：情緒氣象局 (FD26-0440)
+DESCRIPTION:身心實務課程—自我覺察：情緒氣象局及陰晴情緒\\n導師：黃懿德\\n地點：德育中心 翡翠廣場3/F\\n時數：3小時 (Category 1)\\n\\n⚠️ 待抽籤確認
+LOCATION:德育中心 - 澳門祐漢看台街313號翡翠廣場3樓
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:FD26-0353@teacher-training
+DTSTART;TZID=Asia/Macau:20260516T140000
+DTEND;TZID=Asia/Macau:20260516T160000
+SUMMARY:📚 校園身心健康工作 (第四期) (FD26-0353)
+DESCRIPTION:校園身心健康工作培訓\\n主辦：DSEDJ教育心理輔導及特殊教育中心\\n地點：美麗街31號4樓多功能室\\n時數：2小時 (Category 1)\\n\\n⚠️ 待抽籤確認
+LOCATION:教育心理輔導及特殊教育中心 - 澳門美麗街31號4樓多功能室
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:FD26-0445@teacher-training
+DTSTART;TZID=Asia/Macau:20260520T180000
+DTEND;TZID=Asia/Macau:20260520T210000
+SUMMARY:📚 身心健康：憤怒的身體變化 (FD26-0445)
+DESCRIPTION:身心實務課程—自我管理：憤怒的身體變化及讓憤怒著陸\\n導師：黃懿德\\n地點：德育中心 翡翠廣場3/F\\n時數：3小時 (Category 1)\\n\\n⚠️ 待抽籤確認
+LOCATION:德育中心 - 澳門祐漢看台街313號翡翠廣場3樓
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:FD26-0337@teacher-training
+DTSTART;TZID=Asia/Macau:20260523T103000
+DTEND;TZID=Asia/Macau:20260523T133000
+SUMMARY:📚 AI Training: Planning Lessons (FD26-0337)
+DESCRIPTION:AI Training Series: Planning lessons and sequences of lessons\\n導師：KA LEUNG WONG\\n地點：德育中心 翡翠廣場3/F\\n時數：3小時 (英文授課 Category 1)\\n合辦：University of Saint Joseph\\n\\n⚠️ 待抽籤確認 結果：5月18日
+LOCATION:德育中心 - 澳門祐漢看台街313號翡翠廣場3樓
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:FD26-0238@teacher-training
+DTSTART;TZID=Asia/Macau:20260530T103000
+DTEND;TZID=Asia/Macau:20260530T170000
+SUMMARY:📚 性教育理論與實務 (第二場) (FD26-0238)
+DESCRIPTION:性教育理論與實務培訓 (中學教育階段)\\n導師：香港家庭計劃指導會\\n地點：德育中心 翡翠廣場3/F\\n時數：5小時 (Category 1)\\n\\n⚠️ 待抽籤確認
+LOCATION:德育中心 - 澳門祐漢看台街313號翡翠廣場3樓
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+
+END:VCALENDAR
